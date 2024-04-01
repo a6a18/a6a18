@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A quality assurance engineer from Taiwan</h3>
+<h3 align="center">Quality Engineer from Taiwan</h3>
 <br><br>
 
 
