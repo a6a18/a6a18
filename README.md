@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a6a18&label=Profile%20views&color=0e75b6&style=flat" alt="a6a18" /> </p>
 
+[![a6a18's GitHub stats](https://github-readme-stats.vercel.app/api?username=a6a18)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🌱 I’m currently learning automation test using **Cypress**
 <h3 align="left">Connect with me:</h3>
